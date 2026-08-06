@@ -36,17 +36,3 @@ I'm still learning everyday but I understand lots of modern languages and techno
   <img alt="Spring" src="https://img.shields.io/badge/Spring-272a2e?style=for-the-badge&logo=spring">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-272a2e?style=for-the-badge&logo=node.js">
 </p>
-<br/>
-<br/>
-<h4 align=center>Why is my GitHub account so empty and some of my public repositories so outdated and useless?</h4>
-<p align=center>
-  'Cause I mostly code on private projects, or for my work/studies purposes<br/>
-  It is something that I'm trying to regularize, but I'll come back with more interesting project, when I'll have the time, and if my work is not too time-consuming!
-</p>
-<br/>
-<h4 align=center>
-  Do not hesitate to contact me by Discord
-  <br/>
-  <br/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/ImAARIX-272a2e?style=for-the-badge&logo=discord&label=Discord">
-</h4>
