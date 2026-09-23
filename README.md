@@ -20,7 +20,7 @@ I'm still learning everyday but I understand lots of modern languages and techno
   <img alt="Shell/Bash" src="https://img.shields.io/badge/Shell/Bash-272a2e?style=for-the-badge&logo=gnu-bash">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-272a2e?style=for-the-badge&logo=html5">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-272a2e?style=for-the-badge&logo=css3">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin*-272a2e?style=for-the-badge&logo=kotlin">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-272a2e?style=for-the-badge&logo=kotlin">
   <img alt="Groovy" src="https://img.shields.io/badge/Groovy*-272a2e?style=for-the-badge&logo=apache-groovy">
   <img alt="Go" src="https://img.shields.io/badge/Go*-272a2e?style=for-the-badge&logo=go">
 </p>
