@@ -29,6 +29,7 @@ I'm still learning everyday but I understand lots of modern languages and techno
 <p align=center>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-272a2e?style=for-the-badge&logo=linux">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-272a2e?style=for-the-badge&logo=docker">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-272a2e?style=for-the-badge&logo=kubernetes">
   <img alt="Traefik Proxy" src="https://img.shields.io/badge/Traefik%20proxy-272a2e?style=for-the-badge&logo=traefik%20proxy">
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-272a2e?style=for-the-badge&logo=jenkins">
   <img alt="Magento" src="https://img.shields.io/badge/Magento-272a2e?style=for-the-badge&logo=magento">
